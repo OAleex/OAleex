@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Heya!!! Tudo joia? Cheguei em, se derrubar é pênalti!</h1>
 
-<!--
-**OAleex/OAleex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![name](https://i.imgur.com/zd5kXxO.jpg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Status</h1>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=OAleex&theme=synthwave" />
+  </div>
+</div>
+
+
+<h1 align="center">Sobre mim</h1>
+<p align="center">
+- 🌐 Moro em Cajazeiras - PB
+</p>
+<p align="center">
+- 📚 Atualmente Cursando Ciência da Computação (P2)
+</p>
+
+<h1 align="center">Contato</h1>
+<p align="center">
+WIP . . .
+</p>
