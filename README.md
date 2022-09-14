@@ -1,6 +1,6 @@
 <h1 align="center">Heya!!! Tudo joia? Cheguei em, se derrubar é pênalti!</h1>
 
-![name](https://i.imgur.com/zd5kXxO.jpg)
+![OAleex](https://i.imgur.com/V3r0nqU.jpg)
 
 
 <h1 align="center">Status</h1>
