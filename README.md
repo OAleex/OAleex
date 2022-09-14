@@ -24,3 +24,8 @@
 <p align="center">
 WIP . . .
 </p>
+
+<h1 align="center">Linguagens</h1>
+<p align="center">
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-
+</p>
