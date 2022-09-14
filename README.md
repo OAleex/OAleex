@@ -7,6 +7,7 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=OAleex&theme=synthwave" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAleex" />
   </div>
 </div>
 
