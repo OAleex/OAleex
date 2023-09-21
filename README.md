@@ -17,7 +17,7 @@
 - 🌐 Moro em Cajazeiras - PB
 </p>
 <p align="center">
-- 📚 Atualmente Cursando Ciência da Computação (P2)
+- 📚 Atualmente Cursando Ciência da Computação (P4)
 </p>
 
 <h1 align="center">Contato</h1>
